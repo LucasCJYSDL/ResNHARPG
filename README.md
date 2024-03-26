@@ -28,5 +28,5 @@ python run.py --X --agg 'Y' --env 'Z' --seed W --multiple_run 1 --attack_type 'A
 
 ## For rebuttal
 
-- New results on more challenging benchmarks are provided as Figure 2 in the pdf file: 'new result.pdf'.
+- New results on more challenging benchmarks are provided as **Figure 2** in the pdf file: 'new result.pdf'.
 - Corresponding codes are provided in the 'rebuttal' folder.
